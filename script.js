@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // --- DATA ---
     const teamData = [
         { "name": "Marudhu B", "github": "marudhu30", "linkedin": "https://linkedin.com/in/MarudhuB", "role": "Founder & Coordinator" },
-        { "name": "Archana S", "github": "ArchanaSenthilkumar06", "linkedin": "https://www.linkedin.com/in/archana-s-b45847291/", "role": "Core Team" },
+        { "name": "Archana S", "github": "ArchanaSenthilkumar06", "linkedin": "https://www.linkedin.com/in/archana-s-3403a9334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "role": "Core Team" },
         { "name": "Monika Aruldoss", "github": "monikaaruldoss", "linkedin": "https://www.linkedin.com/in/monika-a-b54869291/", "role": "Core Team" },
         { "name": "Lavanya R", "github": "lavanyarajalingam", "linkedin": "https://www.linkedin.com/in/lavanya-r-070868291/", "role": "Core Team" },
         { "name": "Jayanitha S", "github": "JayanithaSivakumar", "linkedin": "https://www.linkedin.com/in/jayanitha-s-023a43291/", "role": "Core Team" }
